@@ -49,10 +49,12 @@ python --version
 ```
 
 2. Ajuste os caminhos no código para sua máquina:
+```bash
 from_dir = "C:/caminho/da/pasta/origem"
 to_dir = "C:/caminho/da/pasta/destino"
+```
 
-3. Execute o script:
+4. Execute o script:
 python organize_images.py
 
 ## 🔮 Possíveis Melhorias
